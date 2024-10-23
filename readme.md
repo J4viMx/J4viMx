@@ -1,14 +1,13 @@
-<h1 align="center">Hola, Soy Javier Juarez ✌</h1>
-<h3 align="center">Soy egresado de Ingenieria en sistemas computaciones y desarrolle un gusto muy grande por el desarrollo web frontend👌😁</h3>
+<h1 align="center">Hola, Soy Javier Juarez 🙂</h1>
+<h3 align="center">Soy Desarrollador web con más de 2 años de experiencia, especializado en Frontend con React y TypeScript. Tengo conocimientos en desarrollo Backend con Node.js. Enfocado en crear interfaces de usuario dinámicas y eficientes. Comprometido con el aprendizaje continuo y la adopción de las últimas tecnologías para ofrecer soluciones web innovadoras y de alta calidad.</h3>
 
 ## Sobre mi: 
 
 ```javascript
 const JaviMx = {
   pronouns: "he" | "him",
-  code: [Javascript,  HTML, CSS, MySQL],
-  tools: [React, Vue, Node, Bootstrap, SASS, GIT, Github],
-  currentOcupation: [ "open for job opportunities" ]
+  technologies: [React, Next, Javascript, Typescript, Node.js, Express, Tailwind, Bootstrap, Git, Github],
+  currentOcupation: [ "Frontend Developer" ]
 }
 ```
 
